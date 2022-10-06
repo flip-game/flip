@@ -1,0 +1,3 @@
+Hello, thanks for using flip Open Source.
+
+As of now, we are still working on Home page.
